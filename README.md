@@ -54,3 +54,4 @@ the whole second stage bootloader code.
 "# ESP32_select_partition" 
 "# ESP32_select_partition" 
 "# ESP32_select_partition" 
+"# ESP32_select_partition" 
